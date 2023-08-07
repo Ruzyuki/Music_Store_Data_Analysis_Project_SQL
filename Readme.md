@@ -2,7 +2,8 @@ We are trying to examine the Music Store dataset with SQL that will help the sto
 
 *Database and Tools Used*:-
 
-1.Postgre SQL
-2.PgAdmin4
+1. Postgre SQL
+
+2. PgAdmin4
 
 Database Schema- Music Store Database
