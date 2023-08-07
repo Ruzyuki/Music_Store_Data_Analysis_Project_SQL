@@ -1,4 +1,4 @@
-# SQL Project on Music Store Analysis
+# SQL Project on Music Store Data Analysis
 This is an SQL project to analyze online music store data
 
 This project taught me how to analyze the music playlist database. 
